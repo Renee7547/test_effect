@@ -1,0 +1,13 @@
+0 0 0 < input/tc.117
+0 1 0 < input/tc.68
+5 0 2 < input/dat434
+4 2 3 < input/ct.16
+1 2 3 < input/ct.15
+1 1 9 < input/add.307
+0 1 0 < input/inp.hf.8
+5 8 7 < input/inp.hf.18
+0   0    < input/bdt.77
+1 1 9 < input/ft.21
+4 8 8 < input/bdt.18
+0 8 4 < input/ct.43
+8 8 5 < input/bdt.14

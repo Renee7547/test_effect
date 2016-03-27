@@ -1,0 +1,5 @@
+0 5 1 < input/inp.hf.13
+3 2 1 < input/dat195
+3 7 6 < input/inp.47
+3 10 6 < input/add.325
+1 1 < input/ad.2

@@ -1,0 +1,3 @@
+7 4 0 < input/adt.113
+0 5 4 < input/dat214
+4 0 0 < input/tc.139
